@@ -33,3 +33,52 @@ In this project:
 ---
 
 ## 📂 Project Structure
+
+
+AutomatedWasteManagementSystem/
+│
+├── WasteContainer.java
+├── WasteCollector.java
+├── OrganicCollector.java
+├── RecyclableCollector.java
+├── HazardousCollector.java
+├── Main.java
+
+
+---
+
+## 💡 Features
+
+- Waste container simulation with capacity tracking  
+- Support for multiple waste types:
+  - Organic Waste
+  - Recyclable Waste
+  - Hazardous Waste  
+
+- Automated waste disposal triggering  
+- Validation to ensure correct collector handling  
+
+---
+
+## ⚙️ How to Run the Project
+
+### 1. Compile the Java files
+
+Open terminal or command prompt inside the project folder and run:
+
+```bash
+javac *.java
+2. Run the program
+java Main
+✅ Expected Output
+Organic container filled: 100/100
+Recyclable container filled: 150/150
+Hazardous container filled: 50/50
+Organic Waste Collector disposing waste.
+Recyclable Waste Collector processing recyclable materials.
+Hazardous Waste Collector safely disposing hazardous waste.
+👨‍💻 Author
+
+RODRIGO, JULIA T.
+BS COMPUTER SCIENCE / 3BSCS-1
+25/02/26
