@@ -66,18 +66,22 @@ AutomatedWasteManagementSystem/
 
 Open terminal or command prompt inside the project folder and run:
 
-```bash
 javac *.java
-2. Run the program
+
+### 2.  Run the program
+
 java Main
-✅ Expected Output
+
+## ✅ Expected Output
+
 Organic container filled: 100/100
 Recyclable container filled: 150/150
 Hazardous container filled: 50/50
 Organic Waste Collector disposing waste.
 Recyclable Waste Collector processing recyclable materials.
 Hazardous Waste Collector safely disposing hazardous waste.
-👨‍💻 Author
+
+## 👨‍💻 Author
 
 RODRIGO, JULIA T.
 BS COMPUTER SCIENCE / 3BSCS-1
