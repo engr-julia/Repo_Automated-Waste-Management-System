@@ -47,6 +47,11 @@ AutomatedWasteManagementSystem/
 
 ---
 
+## 🖼 UML Diagram
+
+![Chain of Responsibility UML](ChainOfResponsibility.JPG)
+
+
 ## 💡 Features
 
 - Waste container simulation with capacity tracking  
