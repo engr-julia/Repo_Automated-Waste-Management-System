@@ -83,6 +83,12 @@ Hazardous Waste Collector safely disposing hazardous waste.
 
 ## 👨‍💻 Author
 
-RODRIGO, JULIA T.
-BS COMPUTER SCIENCE / 3BSCS-1
-25/02/26
+- RODRIGO, JULIA T.
+- BS COMPUTER SCIENCE / 3BSCS-1
+- 25/02/26
+
+## 📌 Notes
+
+This project is created for educational purposes.
+
+You may extend the system by adding more waste types or integrating database support.
